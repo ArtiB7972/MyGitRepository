@@ -1,1 +1,7 @@
 This is my first GIT.. Welcome to GIT..!!
+
+class HelloGit{
+	main(){
+		sysout("Hello Git..!!!");
+	}
+}
