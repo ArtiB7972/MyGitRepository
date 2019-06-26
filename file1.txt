@@ -2,6 +2,6 @@ This is my first GIT.. Welcome to GIT..!!
 
 class HelloGit{
 	public static void main(String args[]){
-		sysout("Hello Git..!!!");
+		system.out.println("Hello Git..!!!");
 	}
 }
